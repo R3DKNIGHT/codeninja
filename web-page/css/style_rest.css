@@ -163,3 +163,18 @@ input[type="text"],input[type="email"],input[type="tel"]
     margin-bottom: 2px;
     font-size:20px;
 }
+.namechange{
+    position: absolute;
+           top: 0;
+           left: 0;
+           width: 100%;
+           height: 100%;
+           text-align: center;
+           line-height: 350px;
+           background: #fff;
+           mix-blend-mode: screen;
+           font-size: 8rem;
+           letter-spacing: 1px;
+           font-weight: bolder;
+           font-family: 'Roboto', sans-serif;
+}
